@@ -85,4 +85,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PIVOx11/ProblemSolving/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
