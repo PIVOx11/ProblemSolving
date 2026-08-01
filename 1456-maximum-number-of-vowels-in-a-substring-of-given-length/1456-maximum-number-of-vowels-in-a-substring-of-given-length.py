@@ -1,8 +1,12 @@
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
         v = {"a", "i", "e", "o", "u"}
-        ans = len([c for c in s[:k] if c in v])
-        count = ans 
+        ans = 0
+        for c in s[:k]:
+            if c in v:
+                ans += 1
+        count = ans
+
         left = 1
         right = k
 
