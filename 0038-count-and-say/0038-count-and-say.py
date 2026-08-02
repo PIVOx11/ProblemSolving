@@ -1,5 +1,5 @@
 def helper(s: str):
-    res = []
+    res = ""
     i = 0
     l = len(s)
     
@@ -11,11 +11,9 @@ def helper(s: str):
             count += 1
             j += 1
         i = j
-        res.append([count, c])
-    s = ""
-    for ar in res:
-        s += f"{str(ar[0])}{ar[1]}"
-    return s
+        res += f"{str(count)}" + c
+
+    return res
 
 class Solution:
     def countAndSay(self, n: int) -> str:
