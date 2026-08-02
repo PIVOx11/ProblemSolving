@@ -1,11 +1,4 @@
-
-def say(arr: list):
-    s = ""
-    for ar in arr:
-        s += f"{str(ar[0])}{ar[1]}"
-    return s
-
-def count(s: str):
+def helper(s: str):
     res = []
     i = 0
     l = len(s)
@@ -19,11 +12,14 @@ def count(s: str):
             j += 1
         i = j
         res.append([count, c])
-    return res
+    s = ""
+    for ar in res:
+        s += f"{str(ar[0])}{ar[1]}"
+    return s
 
 class Solution:
     def countAndSay(self, n: int) -> str:
         s = "1"
         for _ in range(n-1):
-            s = say(count(s))
+            s = helper(s)
         return s
