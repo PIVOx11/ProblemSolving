@@ -106,6 +106,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0877-stone-game](https://github.com/PIVOx11/ProblemSolving/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PIVOx11/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Game Theory
 |  |
 | ------- |
@@ -119,4 +120,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0724-find-pivot-index](https://github.com/PIVOx11/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
