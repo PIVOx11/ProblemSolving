@@ -8,8 +8,6 @@ class Solution:
             if i > 0:
                 arr[i] = arr[i - 1] + n[i - 1]
 
-        print(arr)
-
         for i in range(l):
             if ((s - n[i]) / 2) == arr[i]:
                 return i
