@@ -8,7 +8,7 @@ class Solution:
                 zeros += 1
             if zeros < 2:
                 ans = max(ans, r - l)
-            if zeros > 1:
+            else:
                 zeros = zeros if nums[l] == 1 else zeros - 1
                 l += 1
             r += 1
