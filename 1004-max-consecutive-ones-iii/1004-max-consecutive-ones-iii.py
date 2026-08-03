@@ -9,7 +9,6 @@ class Solution:
         r = i
         target = k
         while i < l:
-            save = i
 
             while r < l:
                 if not target:
@@ -26,4 +25,6 @@ class Solution:
             if nums[i - 1] == 0:
                 target += 1
 
+            if r == l:
+                break
         return res
