@@ -1,6 +1,6 @@
 # LeetCode Solutions — @PIVOx
 
-> Synced automatically from [leetCode.com](https://leetcode.com)
+> Synced automatically from [leetcode.com](https://leetcode.com)
 
 ---
 
