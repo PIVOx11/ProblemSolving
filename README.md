@@ -103,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/PIVOx11/ProblemSolving/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/PIVOx11/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/PIVOx11/ProblemSolving/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/1207-unique-number-of-occurrences) |
@@ -137,9 +138,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/PIVOx11/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/PIVOx11/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/PIVOx11/ProblemSolving/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
