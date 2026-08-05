@@ -1,7 +1,7 @@
 class Solution:
     def decodeString(self, s: str) -> str:
         stack = []
-
+        ### first Solution
         # for c in s:
         #     if c != "]":
         #         if stack and stack[-1].isdigit() and c.isdigit():
@@ -23,6 +23,8 @@ class Solution:
 
         # return "".join(stack)
 
+
+        ### Second Solution
         c_str = ""
         c_num = 0
 
