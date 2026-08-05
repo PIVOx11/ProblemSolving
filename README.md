@@ -54,12 +54,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PIVOx11/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PIVOx11/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PIVOx11/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
 | [0724-find-pivot-index](https://github.com/PIVOx11/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/PIVOx11/ProblemSolving/tree/master/0735-asteroid-collision) |
@@ -77,10 +79,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PIVOx11/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PIVOx11/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/PIVOx11/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
