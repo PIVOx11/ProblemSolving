@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/PIVOx11/ProblemSolving/tree/master/0038-count-and-say) |
+| [0394-decode-string](https://github.com/PIVOx11/ProblemSolving/tree/master/0394-decode-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
@@ -113,6 +114,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/PIVOx11/ProblemSolving/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/PIVOx11/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/PIVOx11/ProblemSolving/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
