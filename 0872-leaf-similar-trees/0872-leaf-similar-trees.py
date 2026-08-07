@@ -23,7 +23,4 @@ def seq(root: Optional[TreeNode], arr: Optional([tuple])) -> [tuple]:
 
 class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
-        print(seq(root1, None))
-        print("---------------")
-        print(seq(root2, None))
         return seq(root1, None) == seq(root2, None)
