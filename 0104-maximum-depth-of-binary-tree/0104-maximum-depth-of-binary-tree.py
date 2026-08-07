@@ -7,7 +7,7 @@
 
 
 class Solution:
-    @lru_cache
+    # @lru_cache
     def maxDepth(self, root: Optional[TreeNode], h: int = 0) -> int:
         if not root:
             return h
