@@ -59,6 +59,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PIVOx11/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PIVOx11/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PIVOx11/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/PIVOx11/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PIVOx11/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Game Theory
 |  |
@@ -95,6 +97,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/PIVOx11/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PIVOx11/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
