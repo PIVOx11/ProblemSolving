@@ -76,6 +76,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/PIVOx11/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PIVOx11/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PIVOx11/ProblemSolving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Game Theory
 |  |
@@ -154,4 +155,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PIVOx11/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/PIVOx11/ProblemSolving/tree/master/0872-leaf-similar-trees) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PIVOx11/ProblemSolving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
