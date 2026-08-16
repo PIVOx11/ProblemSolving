@@ -1,8 +1,8 @@
 class Solution:
     def predictPartyVictory(self, s: str) -> str:
-
-        queueR = []
-        queueD = []
+        s = list(s)
+        queueR = deque()
+        queueD = deque()
 
         for i, c in enumerate(s):
             if c == "R":
@@ -11,7 +11,7 @@ class Solution:
                 queueD.append(i)
         
         while queueR and queueD:
-            R , D = queueR.pop(0), queueD.pop(0)
+            R , D = queueR.popleft(), queueD.popleft()
             if R < D:
                 queueR.append(R + len(s))
             else:
