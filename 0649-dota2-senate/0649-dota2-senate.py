@@ -1,6 +1,5 @@
 class Solution:
     def predictPartyVictory(self, s: str) -> str:
-        s = list(s)
         queueR = deque()
         queueD = deque()
 
