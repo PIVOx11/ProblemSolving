@@ -8,12 +8,12 @@ class Solution:
                 queueR.append(i)
             else:
                 queueD.append(i)
-        
+        l = len(s)
         while queueR and queueD:
             R , D = queueR.popleft(), queueD.popleft()
             if R < D:
-                queueR.append(R + len(s))
+                queueR.append(R + l)
             else:
-                queueD.append(D + len(s))
+                queueD.append(D + l)
 
         return "Radiant" if queueR else "Dire"
