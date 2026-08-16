@@ -16,4 +16,4 @@ class Solution:
             else:
                 queueD.append(D + len(s))
 
-        return "Radiant" if not queueD else "Dire"
+        return "Radiant" if queueR else "Dire"
