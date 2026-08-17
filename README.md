@@ -168,4 +168,8 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/PIVOx11/ProblemSolving/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
