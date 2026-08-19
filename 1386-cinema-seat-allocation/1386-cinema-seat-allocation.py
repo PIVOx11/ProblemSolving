@@ -9,7 +9,7 @@ class Solution:
             seatMap[row].add(seat)
 
         for reSeats in seatMap.values():
-            first = not (target[0] & reSeats) 
+            first = not (target[0] & reSeats)
             mid = not (target[1] & reSeats)
             last = not (target[2] & reSeats)
             
