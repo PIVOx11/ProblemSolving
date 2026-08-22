@@ -35,6 +35,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/PIVOx11/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/PIVOx11/ProblemSolving/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PIVOx11/ProblemSolving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
