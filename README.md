@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/PIVOx11/ProblemSolving/tree/master/0038-count-and-say) |
+| [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/PIVOx11/ProblemSolving/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/PIVOx11/ProblemSolving/tree/master/1386-cinema-seat-allocation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
