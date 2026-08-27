@@ -55,6 +55,7 @@
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -63,6 +64,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PIVOx11/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PIVOx11/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
