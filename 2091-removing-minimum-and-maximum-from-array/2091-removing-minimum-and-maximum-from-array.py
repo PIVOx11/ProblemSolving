@@ -1,10 +1,9 @@
 class Solution:
     def minimumDeletions(self, nums: List[int]) -> int:
         l = len(nums)
-        # if l == 1:
-        #     return 1
         
         minI, maxI = nums.index(min(nums)), nums.index(max(nums))
+        if minI == maxI: return 1
         if minI > maxI:
             minI, maxI = maxI, minI
         
