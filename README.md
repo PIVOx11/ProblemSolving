@@ -84,6 +84,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PIVOx11/ProblemSolving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/PIVOx11/ProblemSolving/tree/master/2239-find-closest-number-to-zero) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2248-intersection-of-multiple-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/PIVOx11/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PIVOx11/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PIVOx11/ProblemSolving/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -113,6 +114,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/PIVOx11/ProblemSolving/tree/master/1386-cinema-seat-allocation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2248-intersection-of-multiple-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/PIVOx11/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PIVOx11/ProblemSolving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -145,6 +148,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2248-intersection-of-multiple-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
