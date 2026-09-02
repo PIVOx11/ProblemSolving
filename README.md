@@ -78,6 +78,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/PIVOx11/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/PIVOx11/ProblemSolving/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/PIVOx11/ProblemSolving/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/PIVOx11/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
 | [0724-find-pivot-index](https://github.com/PIVOx11/ProblemSolving/tree/master/0724-find-pivot-index) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PIVOx11/ProblemSolving/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/PIVOx11/ProblemSolving/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/PIVOx11/ProblemSolving/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PIVOx11/ProblemSolving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
