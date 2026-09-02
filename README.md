@@ -73,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PIVOx11/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/PIVOx11/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
 | [0724-find-pivot-index](https://github.com/PIVOx11/ProblemSolving/tree/master/0724-find-pivot-index) |
@@ -100,6 +101,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PIVOx11/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/PIVOx11/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
