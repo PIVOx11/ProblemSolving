@@ -37,6 +37,7 @@
 | [0877-stone-game](https://github.com/PIVOx11/ProblemSolving/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PIVOx11/ProblemSolving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PIVOx11/ProblemSolving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PIVOx11/ProblemSolving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PIVOx11/ProblemSolving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PIVOx11/ProblemSolving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Game Theory
 |  |
 | ------- |
