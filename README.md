@@ -55,6 +55,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/PIVOx11/ProblemSolving/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/PIVOx11/ProblemSolving/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/PIVOx11/ProblemSolving/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
@@ -118,6 +119,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/1207-unique-number-of-occurrences) |
