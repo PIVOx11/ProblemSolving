@@ -78,6 +78,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/PIVOx11/ProblemSolving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PIVOx11/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/PIVOx11/ProblemSolving/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/PIVOx11/ProblemSolving/tree/master/0136-single-number) |
@@ -223,4 +224,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/PIVOx11/ProblemSolving/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
