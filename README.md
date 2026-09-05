@@ -56,6 +56,7 @@
 | [0038-count-and-say](https://github.com/PIVOx11/ProblemSolving/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/PIVOx11/ProblemSolving/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/PIVOx11/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/PIVOx11/ProblemSolving/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/PIVOx11/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/PIVOx11/ProblemSolving/tree/master/1386-cinema-seat-allocation) |
