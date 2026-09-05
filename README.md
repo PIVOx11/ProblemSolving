@@ -101,6 +101,7 @@
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PIVOx11/ProblemSolving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PIVOx11/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0724-find-pivot-index](https://github.com/PIVOx11/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/PIVOx11/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
