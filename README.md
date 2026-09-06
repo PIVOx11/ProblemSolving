@@ -89,6 +89,7 @@
 | [0877-stone-game](https://github.com/PIVOx11/ProblemSolving/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/PIVOx11/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PIVOx11/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/PIVOx11/ProblemSolving/tree/master/1386-cinema-seat-allocation) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PIVOx11/ProblemSolving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PIVOx11/ProblemSolving/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -130,6 +131,7 @@
 | [0290-word-pattern](https://github.com/PIVOx11/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PIVOx11/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/PIVOx11/ProblemSolving/tree/master/1386-cinema-seat-allocation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2248-intersection-of-multiple-arrays) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PIVOx11/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -228,4 +231,8 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PIVOx11/ProblemSolving/tree/master/0027-remove-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PIVOx11/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
