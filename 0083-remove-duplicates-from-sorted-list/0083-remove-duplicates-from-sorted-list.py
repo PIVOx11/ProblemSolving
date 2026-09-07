@@ -12,7 +12,6 @@ class Solution:
         second = head.next
         
         while second:
-            print(first.val, second.val)
             if second.val != first.val:
                 first.next = second
                 first = second
