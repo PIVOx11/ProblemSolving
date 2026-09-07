@@ -218,6 +218,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/PIVOx11/ProblemSolving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0328-odd-even-linked-list](https://github.com/PIVOx11/ProblemSolving/tree/master/0328-odd-even-linked-list) |
 ## Euclidean Algorithm
 |  |
