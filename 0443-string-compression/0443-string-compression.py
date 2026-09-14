@@ -15,7 +15,4 @@ class Solution:
                     s[i] = s[j]
             j += 1
             n += 1
-
-
-        print("".join(s))
         return i
