@@ -60,6 +60,7 @@
 | [0290-word-pattern](https://github.com/PIVOx11/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/PIVOx11/ProblemSolving/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/PIVOx11/ProblemSolving/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/PIVOx11/ProblemSolving/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/PIVOx11/ProblemSolving/tree/master/0141-linked-list-cycle) |
+| [0443-string-compression](https://github.com/PIVOx11/ProblemSolving/tree/master/0443-string-compression) |
 ## Counting Sort
 |  |
 | ------- |
