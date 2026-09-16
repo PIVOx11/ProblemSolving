@@ -83,6 +83,7 @@
 | [0027-remove-element](https://github.com/PIVOx11/ProblemSolving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PIVOx11/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/PIVOx11/ProblemSolving/tree/master/0066-plus-one) |
+| [0135-candy](https://github.com/PIVOx11/ProblemSolving/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/PIVOx11/ProblemSolving/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/PIVOx11/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
@@ -212,6 +213,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/PIVOx11/ProblemSolving/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/PIVOx11/ProblemSolving/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/PIVOx11/ProblemSolving/tree/master/1386-cinema-seat-allocation) |
