@@ -4,14 +4,14 @@ class Solution:
         # n = sorted(list(set(n)))
 
         # return n[-3] if len(n) >= 3 else max(n)
-        if len(set(n)) < 3:
+        n = set(n)
+        if len(n) < 3:
             return max(n)
-        elif len(set(n)) == 3:
+        elif len(n) == 3:
             return min(n)
         
         t = max(n)
         s = f = -float("inf")
-        n = set(n)
 
         for n in n:
             if n > f:
