@@ -7,8 +7,6 @@ class Solution:
         n = set(n)
         if len(n) < 3:
             return max(n)
-        elif len(n) == 3:
-            return min(n)
         
         t = max(n)
         s = f = -float("inf")
