@@ -67,6 +67,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/PIVOx11/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PIVOx11/ProblemSolving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
