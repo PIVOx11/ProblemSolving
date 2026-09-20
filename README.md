@@ -88,6 +88,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/PIVOx11/ProblemSolving/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/PIVOx11/ProblemSolving/tree/master/0334-increasing-triplet-subsequence) |
+| [0414-third-maximum-number](https://github.com/PIVOx11/ProblemSolving/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/PIVOx11/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/PIVOx11/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/PIVOx11/ProblemSolving/tree/master/0877-stone-game) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/PIVOx11/ProblemSolving/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PIVOx11/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
