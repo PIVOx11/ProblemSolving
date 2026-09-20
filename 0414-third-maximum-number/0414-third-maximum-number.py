@@ -4,6 +4,8 @@ class Solution:
         # n = sorted(list(set(n)))
 
         # return n[-3] if len(n) >= 3 else max(n)
+        
+        
         n = set(n)
         if len(n) < 3:
             return max(n)
