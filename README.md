@@ -82,6 +82,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PIVOx11/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/PIVOx11/ProblemSolving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PIVOx11/ProblemSolving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/PIVOx11/ProblemSolving/tree/master/0066-plus-one) |
@@ -219,6 +220,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PIVOx11/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/PIVOx11/ProblemSolving/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/PIVOx11/ProblemSolving/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
@@ -245,6 +247,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PIVOx11/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/PIVOx11/ProblemSolving/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/PIVOx11/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0443-string-compression](https://github.com/PIVOx11/ProblemSolving/tree/master/0443-string-compression) |
