@@ -263,4 +263,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PIVOx11/ProblemSolving/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/PIVOx11/ProblemSolving/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
