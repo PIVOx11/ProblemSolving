@@ -36,6 +36,7 @@
 | [0066-plus-one](https://github.com/PIVOx11/ProblemSolving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PIVOx11/ProblemSolving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PIVOx11/ProblemSolving/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/PIVOx11/ProblemSolving/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/PIVOx11/ProblemSolving/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PIVOx11/ProblemSolving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -61,6 +62,7 @@
 | [0290-word-pattern](https://github.com/PIVOx11/ProblemSolving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PIVOx11/ProblemSolving/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/PIVOx11/ProblemSolving/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/PIVOx11/ProblemSolving/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/PIVOx11/ProblemSolving/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PIVOx11/ProblemSolving/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/PIVOx11/ProblemSolving/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/PIVOx11/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/PIVOx11/ProblemSolving/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
