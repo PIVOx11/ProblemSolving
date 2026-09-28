@@ -270,6 +270,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/PIVOx11/ProblemSolving/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/PIVOx11/ProblemSolving/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/PIVOx11/ProblemSolving/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/PIVOx11/ProblemSolving/tree/master/1148-article-views-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PIVOx11/ProblemSolving/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
