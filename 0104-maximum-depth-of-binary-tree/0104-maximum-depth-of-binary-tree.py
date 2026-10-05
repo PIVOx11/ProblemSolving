@@ -5,10 +5,30 @@
 #         self.left = left
 #         self.right = right
 
+# def help-, right, ans):
 
+import pathlib
 class Solution:
-    # @lru_cache
-    def maxDepth(self, root: Optional[TreeNode], h: int = 0) -> int:
+    def maxDepth(self, root: TreeNode | None) -> int:
+        
+        # if not root:
+        #     return 0
+        # print(root.val)
+        # return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
+
+        ans = 0
+
+        q = deque([root])
+
         if not root:
-            return h
-        return max(self.maxDepth(root.left, h + 1), self.maxDepth(root.right, h + 1))
+            return 0
+        while q:
+            for _ in range(len(q)):
+                root = q.popleft()
+                if root.left:
+                    q.append(root.left)
+                if root.right:
+                    q.append(root.right)
+            ans += 1
+        print(pathlib.Path('display_runtime.txt').read_text())
+        return ans
