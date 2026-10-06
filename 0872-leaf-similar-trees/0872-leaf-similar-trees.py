@@ -5,22 +5,16 @@
 #         self.left = left
 #         self.right = right
 
-
-@lru_cache
-def seq(root: Optional[TreeNode], arr: Optional([tuple])) -> [tuple]:
-    if not arr:
-        arr = ()
-
+def helper(root):
     if not root:
-        return arr
-
+        return []
     if not root.left and not root.right:
-        arr = (*arr, root.val)
-        return arr
+        return [root.val]
 
-    return seq(root.left, arr) + seq(root.right, arr)
-
+    return helper(root.left) + helper(root.right)
 
 class Solution:
-    def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
-        return seq(root1, None) == seq(root2, None)
+    def leafSimilar(self, root1: TreeNode | None, root2: TreeNode | None) -> bool:
+        
+
+        return helper(root1) == helper(root2)
