@@ -13,8 +13,7 @@ def dfs(node, prev):
     if node.val >= prev:
         prev = node.val
         ans = 1
-    else:
-        ans = 0
+
     ans += dfs(node.left, prev)
     ans += dfs(node.right, prev)
     return ans
