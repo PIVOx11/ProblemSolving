@@ -67,6 +67,7 @@
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PIVOx11/ProblemSolving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PIVOx11/ProblemSolving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PIVOx11/ProblemSolving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0394-decode-string](https://github.com/PIVOx11/ProblemSolving/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/PIVOx11/ProblemSolving/tree/master/0735-asteroid-collision) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PIVOx11/ProblemSolving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/PIVOx11/ProblemSolving/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -232,6 +234,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/PIVOx11/ProblemSolving/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/PIVOx11/ProblemSolving/tree/master/0649-dota2-senate) |
 | [1386-cinema-seat-allocation](https://github.com/PIVOx11/ProblemSolving/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PIVOx11/ProblemSolving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PIVOx11/ProblemSolving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Queue
 |  |
@@ -281,4 +284,8 @@
 | [1661-average-time-of-process-per-machine](https://github.com/PIVOx11/ProblemSolving/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/PIVOx11/ProblemSolving/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PIVOx11/ProblemSolving/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PIVOx11/ProblemSolving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
