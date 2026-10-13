@@ -113,6 +113,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PIVOx11/ProblemSolving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PIVOx11/ProblemSolving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PIVOx11/ProblemSolving/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/PIVOx11/ProblemSolving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PIVOx11/ProblemSolving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PIVOx11/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
@@ -174,6 +175,7 @@
 | [0414-third-maximum-number](https://github.com/PIVOx11/ProblemSolving/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PIVOx11/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2248-intersection-of-multiple-arrays) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/PIVOx11/ProblemSolving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PIVOx11/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -236,6 +238,7 @@
 | [1386-cinema-seat-allocation](https://github.com/PIVOx11/ProblemSolving/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PIVOx11/ProblemSolving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PIVOx11/ProblemSolving/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/PIVOx11/ProblemSolving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Queue
 |  |
 | ------- |
