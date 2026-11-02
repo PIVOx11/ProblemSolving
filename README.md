@@ -37,6 +37,7 @@
 | [0067-add-binary](https://github.com/PIVOx11/ProblemSolving/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PIVOx11/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/PIVOx11/ProblemSolving/tree/master/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/PIVOx11/ProblemSolving/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PIVOx11/ProblemSolving/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PIVOx11/ProblemSolving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -95,6 +96,7 @@
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/PIVOx11/ProblemSolving/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/PIVOx11/ProblemSolving/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0724-find-pivot-index](https://github.com/PIVOx11/ProblemSolving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/PIVOx11/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/PIVOx11/ProblemSolving/tree/master/0877-stone-game) |
@@ -175,6 +177,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/PIVOx11/ProblemSolving/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PIVOx11/ProblemSolving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PIVOx11/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PIVOx11/ProblemSolving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PIVOx11/ProblemSolving/tree/master/2248-intersection-of-multiple-arrays) |
